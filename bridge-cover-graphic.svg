@@ -1,0 +1,87 @@
+<svg width="1360" viewBox="0 0 680 720" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>B.R.I.D.G.E. — Enterprise AI Security Operating Model</title>
+  <desc>Six-pillar visual model showing Baseline, Regulate, Identify, Design, Govern, and Evidence as the components of the BRIDGE AI security framework.</desc>
+
+  <!-- Background header band -->
+  <rect x="0" y="0" width="680" height="148" fill="#04342C"/>
+  <text x="340" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="bold" letter-spacing="3" fill="#5DCAA5">ENTERPRISE AI SECURITY OPERATING MODEL</text>
+  <text x="340" y="96" text-anchor="middle" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#E1F5EE" letter-spacing="8">BRIDGE</text>
+  <text x="340" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#9FE1CB" letter-spacing="0.5">Secure AI by seeing it. Controlling it. Governing it. Proving it works.</text>
+
+  <!-- B Card -->
+  <rect x="44" y="168" width="278" height="148" fill="#E1F5EE" rx="4" stroke="#5DCAA5" stroke-width="0.5"/>
+  <rect x="44" y="168" width="278" height="6" fill="#1D9E75" rx="2"/>
+  <text x="72" y="207" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#04342C">B</text>
+  <text x="107" y="199" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#0F6E56" letter-spacing="1">BASELINE</text>
+  <text x="107" y="215" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#04342C">AI Usage</text>
+  <line x1="64" y1="228" x2="308" y2="228" stroke="#9FE1CB" stroke-width="0.5"/>
+  <text x="64" y="249" font-family="Arial, sans-serif" font-size="12" fill="#085041">Discover where and how AI</text>
+  <text x="64" y="266" font-family="Arial, sans-serif" font-size="12" fill="#085041">is being used across browsers,</text>
+  <text x="64" y="283" font-family="Arial, sans-serif" font-size="12" fill="#085041">SaaS platforms, and agents.</text>
+  <text x="64" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1D9E75">→ AI inventory · use case register · shadow AI</text>
+
+  <!-- R Card -->
+  <rect x="358" y="168" width="278" height="148" fill="#E6F1FB" rx="4" stroke="#85B7EB" stroke-width="0.5"/>
+  <rect x="358" y="168" width="278" height="6" fill="#185FA5" rx="2"/>
+  <text x="386" y="207" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#042C53">R</text>
+  <text x="421" y="199" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#185FA5" letter-spacing="1">REGULATE</text>
+  <text x="421" y="215" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#042C53">Access &amp; Data Flow</text>
+  <line x1="378" y1="228" x2="622" y2="228" stroke="#B5D4F4" stroke-width="0.5"/>
+  <text x="378" y="249" font-family="Arial, sans-serif" font-size="12" fill="#0C447C">Control AI access, prompts,</text>
+  <text x="378" y="266" font-family="Arial, sans-serif" font-size="12" fill="#0C447C">uploads, outputs, and agent</text>
+  <text x="378" y="283" font-family="Arial, sans-serif" font-size="12" fill="#0C447C">permissions at every layer.</text>
+  <text x="378" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#185FA5">→ DLP · browser controls · access tiers</text>
+
+  <!-- I Card -->
+  <rect x="44" y="332" width="278" height="148" fill="#FAECE7" rx="4" stroke="#F0997B" stroke-width="0.5"/>
+  <rect x="44" y="332" width="278" height="6" fill="#D85A30" rx="2"/>
+  <text x="72" y="371" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#4A1B0C">I</text>
+  <text x="107" y="363" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#993C1D" letter-spacing="1">IDENTIFY</text>
+  <text x="107" y="379" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#4A1B0C">AI Risk &amp; Threats</text>
+  <line x1="64" y1="392" x2="308" y2="392" stroke="#F5C4B3" stroke-width="0.5"/>
+  <text x="64" y="413" font-family="Arial, sans-serif" font-size="12" fill="#711B0C">Threat model each AI use case</text>
+  <text x="64" y="430" font-family="Arial, sans-serif" font-size="12" fill="#711B0C">using STRIDE, OWASP LLM Top 10,</text>
+  <text x="64" y="447" font-family="Arial, sans-serif" font-size="12" fill="#711B0C">and MITRE ATLAS.</text>
+  <text x="64" y="469" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#D85A30">→ risk assessments · threat models · misuse cases</text>
+
+  <!-- D Card -->
+  <rect x="358" y="332" width="278" height="148" fill="#EEEDFE" rx="4" stroke="#AFA9EC" stroke-width="0.5"/>
+  <rect x="358" y="332" width="278" height="6" fill="#534AB7" rx="2"/>
+  <text x="386" y="371" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#26215C">D</text>
+  <text x="421" y="363" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#534AB7" letter-spacing="1">DESIGN</text>
+  <text x="421" y="379" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#26215C">Secure AI Controls</text>
+  <line x1="378" y1="392" x2="622" y2="392" stroke="#CECBF6" stroke-width="0.5"/>
+  <text x="378" y="413" font-family="Arial, sans-serif" font-size="12" fill="#3C3489">Extend security into GenAI,</text>
+  <text x="378" y="430" font-family="Arial, sans-serif" font-size="12" fill="#3C3489">SaaS AI, coding agents, and</text>
+  <text x="378" y="447" font-family="Arial, sans-serif" font-size="12" fill="#3C3489">autonomous agents.</text>
+  <text x="378" y="469" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#534AB7">→ control baselines · agent guardrails · red team</text>
+
+  <!-- G Card -->
+  <rect x="44" y="496" width="278" height="148" fill="#FAEEDA" rx="4" stroke="#EF9F27" stroke-width="0.5"/>
+  <rect x="44" y="496" width="278" height="6" fill="#BA7517" rx="2"/>
+  <text x="72" y="535" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#412402">G</text>
+  <text x="107" y="527" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#854F0B" letter-spacing="1">GOVERN</text>
+  <text x="107" y="543" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#412402">AI Lifecycle</text>
+  <line x1="64" y1="556" x2="308" y2="556" stroke="#FAC775" stroke-width="0.5"/>
+  <text x="64" y="577" font-family="Arial, sans-serif" font-size="12" fill="#633806">Define ownership, policies,</text>
+  <text x="64" y="594" font-family="Arial, sans-serif" font-size="12" fill="#633806">intake, approvals, education,</text>
+  <text x="64" y="611" font-family="Arial, sans-serif" font-size="12" fill="#633806">and compliance alignment.</text>
+  <text x="64" y="633" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#BA7517">→ governance policy · lifecycle stages · roles</text>
+
+  <!-- E Card -->
+  <rect x="358" y="496" width="278" height="148" fill="#FBEAF0" rx="4" stroke="#ED93B1" stroke-width="0.5"/>
+  <rect x="358" y="496" width="278" height="6" fill="#D4537E" rx="2"/>
+  <text x="386" y="535" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#4B1528">E</text>
+  <text x="421" y="527" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#993556" letter-spacing="1">EVIDENCE</text>
+  <text x="421" y="543" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#4B1528">Assurance &amp; Enablement</text>
+  <line x1="378" y1="556" x2="622" y2="556" stroke="#F4C0D1" stroke-width="0.5"/>
+  <text x="378" y="577" font-family="Arial, sans-serif" font-size="12" fill="#72243E">Prove controls work through</text>
+  <text x="378" y="594" font-family="Arial, sans-serif" font-size="12" fill="#72243E">testing, metrics, and reporting.</text>
+  <text x="378" y="611" font-family="Arial, sans-serif" font-size="12" fill="#72243E">Enable safe AI adoption.</text>
+  <text x="378" y="633" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#D4537E">→ assurance dashboard · maturity scorecard</text>
+
+  <!-- Footer -->
+  <rect x="0" y="658" width="680" height="62" fill="#04342C"/>
+  <text x="340" y="684" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#9FE1CB">Governed like a risk · Secured like a platform · Monitored like an access path</text>
+  <text x="340" y="704" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#9FE1CB">Tested like an application · Enabled like a business capability</text>
+</svg>
