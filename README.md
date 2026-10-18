@@ -162,7 +162,7 @@ If you are applying BRIDGE in your organization and would like to share what you
 
 **Kumar Mathialagan** — Security & Compliance professional with experience in enterprise cyber risk management, AI security governance, and compliance (CISSP, CISA, CISM, CRISC, ISO 42001).
 
-[GitHub](https://github.com/tribal-knowledge) · [LinkedIn](https://www.linkedin.com/in/)
+[GitHub](https://github.com/tribal-knowledge) · [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/kumarmathialagan/))
 
 ---
 
