@@ -2,7 +2,7 @@
 
 > **Secure AI by controlling the access paths, understanding the use cases, governing the lifecycle, reducing the risk, and proving that controls work.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](LICENSE)
 [![Topics](https://img.shields.io/badge/Topics-AI%20Security%20%7C%20Governance%20%7C%20Risk-orange)]()
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
@@ -162,15 +162,25 @@ If you are applying BRIDGE in your organization and would like to share what you
 
 **Kumar Mathialagan** — Security & Compliance professional with experience in enterprise cyber risk management, AI security governance, and compliance (CISSP, CISA, CISM, CRISC, ISO 42001).
 
-[GitHub](https://github.com/tribal-knowledge) · [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/kumarmathialagan/))
+[GitHub](https://github.com/tribal-knowledge) · [LinkedIn](https://www.linkedin.com/in/kumarmathialagan/) · [tribalknowledge.ca](https://tribalknowledge.ca)
+
+---
+
+## How to Cite
+
+> Mathialagan, K. (2026). *B.R.I.D.G.E.: An Enterprise AI Security Operating Model*. Tribal Knowledge Inc. https://github.com/tribal-knowledge/bridge-ai-security-operating-model
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+© 2026 Tribal Knowledge Inc.
 
-You are free to use, adapt, and share this model in your organization. Attribution is appreciated.
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The full licence text is in [LICENSE](LICENSE).
+
+You are free to share and adapt it for any purpose, including commercially, as long as you give appropriate credit, provide a link to the licence, and indicate if changes were made. The citation above is a good way to give credit.
+
+Earlier versions of this repository were released under the MIT License.
 
 ---
 
