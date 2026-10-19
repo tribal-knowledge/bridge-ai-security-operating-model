@@ -168,13 +168,13 @@ If you are applying BRIDGE in your organization and would like to share what you
 
 ## How to Cite
 
-> Mathialagan, K. (2026). *B.R.I.D.G.E.: An Enterprise AI Security Operating Model*. Tribal Knowledge Inc. https://github.com/tribal-knowledge/bridge-ai-security-operating-model
+> Mathialagan, K. (2026). *B.R.I.D.G.E.: An Enterprise AI Security Operating Model*. Tribal Knowledge. https://github.com/tribal-knowledge/bridge-ai-security-operating-model
 
 ---
 
 ## License
 
-© 2026 Tribal Knowledge Inc.
+© 2026 Connaissance du Tribale Inc. (Tribal Knowledge)
 
 This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The full licence text is in [LICENSE](LICENSE).
 
